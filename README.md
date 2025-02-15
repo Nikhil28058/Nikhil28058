@@ -18,7 +18,7 @@ Data Processing: Apache Spark, Hadoop
 
 📊 Skilled in Python, SQL, Tableau, and AWS for data visualization and big data processing.
 
-🚀 Projects
+🚀 PROJECTS
 
 Plants Classification using Deep Neural Networks: Led the development of a deep learning model using CNN & pre-trained architectures like ResNet50 and InceptionV3 to classify 30 plant species.
 
