@@ -24,7 +24,7 @@ Data Processing: Apache Spark, Hadoop
 
 🚀 **PROJECTS**
 
-Plants Classification using Deep Neural Networks: Led the development of a deep learning model using CNN & pre-trained architectures like ResNet50 and InceptionV3 to classify 30 plant species.
+
 
 Wine Quality Prediction: Built a parallel machine learning model using Apache Spark on AWS infrastructure, deployed with Docker and S3, achieving a high accuracy of 90%.
 
@@ -39,6 +39,8 @@ Flight Data Analysis: Evaluated flight schedules, airline punctuality, and airpo
 **Some Projects I worked on:**
 
 [Image Classification using Neural Networks](https://github.com/Nikhil28058/Image-Classification-using-Neural-Networks)
+
+-Plants Classification using Deep Neural Networks: Led the development of a deep learning model using CNN & pre-trained architectures like ResNet50 and InceptionV3 to classify 30 plant species.
 
 [Project 2: Data Analysis Toolkit](https://github.com/yourusername/project2)
 
