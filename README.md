@@ -24,7 +24,7 @@ Data Processing: Apache Spark, Hadoop
 
 ---
 
-# 🚀 **PROJECTS**
+# 🚀 Projects
 
 [Image Classification using Neural Networks](https://github.com/Nikhil28058/Image-Classification-using-Neural-Networks)
 
