@@ -8,7 +8,7 @@
 
 ---
 
-# Technical Expertise
+# 🧑‍💻 Technical Expertise
 
 🤖 Hands-on experience with a wide range of ML technologies:
 
@@ -26,12 +26,6 @@ Data Processing: Apache Spark, Hadoop
 
 # 🚀 **PROJECTS**
 
-
-
-🌱 Continuous learner focused on expanding machine learning expertise and open-source contributions.
-
-
-
 [Image Classification using Neural Networks](https://github.com/Nikhil28058/Image-Classification-using-Neural-Networks)
 
 Plants Classification using Deep Neural Networks: Led the development of a deep learning model using CNN & pre-trained architectures like ResNet50 and InceptionV3 to classify 30 plant species.
@@ -44,8 +38,11 @@ Flight Data Analysis: Evaluated flight schedules, airline punctuality, and airpo
 
 Wine Quality Prediction: Built a parallel machine learning model using Apache Spark on AWS infrastructure, deployed with Docker and S3, achieving a high accuracy of 90%.
 
+[Netflix Recommendation System using BERT](https://github.com/Nikhil28058/Netflix-Recommendation-System-using-BERT)
 
 Developed a recommendation system for Netflix content by leveraging BERT (Bidirectional Encoder Representations from Transformers) to analyze and understand user preferences and content features.
+
+🌱 Continuous learner focused on expanding machine learning expertise and open-source contributions.
 
 **👀 Actively seeking a full-time role as a Data Scientist or Machine Learning Engineer.**
 <!---
