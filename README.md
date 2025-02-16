@@ -44,6 +44,8 @@ Developed a recommendation system for Netflix content by leveraging BERT (Bidire
 
 🌱 Continuous learner focused on expanding machine learning expertise and open-source contributions.
 
+---
+
 **👀 Actively seeking a full-time role as a Data Scientist or Machine Learning Engineer.**
 <!---
 Nikhil28058/Nikhil28058 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
