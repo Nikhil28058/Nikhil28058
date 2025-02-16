@@ -30,7 +30,7 @@ Wine Quality Prediction: Built a parallel machine learning model using Apache Sp
 
 Financial Risk Analytics: Analyzed high-volume financial transactions to detect inconsistencies and built predictive models to identify fraudulent transactions, improving fraud detection by 25%.
 
-Flight Data Analysis: Evaluated flight schedules, airline punctuality, and airport efficiency using SQL, Python, and Hadoop to identify delays and causes of flight cancellations.
+
 
 🌱 Continuous learner focused on expanding machine learning expertise and open-source contributions.
 
@@ -40,9 +40,11 @@ Flight Data Analysis: Evaluated flight schedules, airline punctuality, and airpo
 
 [Image Classification using Neural Networks](https://github.com/Nikhil28058/Image-Classification-using-Neural-Networks)
 
--Plants Classification using Deep Neural Networks: Led the development of a deep learning model using CNN & pre-trained architectures like ResNet50 and InceptionV3 to classify 30 plant species.
+Plants Classification using Deep Neural Networks: Led the development of a deep learning model using CNN & pre-trained architectures like ResNet50 and InceptionV3 to classify 30 plant species.
 
-[Project 2: Data Analysis Toolkit](https://github.com/yourusername/project2)
+[Flight Data Analysis](https://github.com/Nikhil28058/Flight-Data-Analysis))
+
+Flight Data Analysis: Evaluated flight schedules, airline punctuality, and airport efficiency using SQL, Python, and Hadoop to identify delays and causes of flight cancellations.
 
 [Project 3: Web Scraping Tool](https://github.com/yourusername/project3)
 
