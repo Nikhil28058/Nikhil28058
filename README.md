@@ -30,6 +30,13 @@ Flight Data Analysis: Evaluated flight schedules, airline punctuality, and airpo
 
 🌱 Continuous learner focused on expanding machine learning expertise and open-source contributions.
 
+[Project 1: Awesome AI Model](https://github.com/yourusername/project1)
+
+[Project 2: Data Analysis Toolkit](https://github.com/yourusername/project2)
+
+[Project 3: Web Scraping Tool](https://github.com/yourusername/project3)
+
+
 👀 Actively seeking a full-time role as a Data Scientist or Machine Learning Engineer.
 <!---
 Nikhil28058/Nikhil28058 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
