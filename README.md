@@ -1,4 +1,4 @@
-**👋 Hi there, I am Sai Nikhil Dunuka**
+# 👋 Hi there, I am Sai Nikhil Dunuka**
 
 👨‍💻 Data Scientist | Machine Learning Enthusiast
 
@@ -7,6 +7,8 @@
 🔍 Experienced with predictive analytics, fraud detection, financial risk modeling, and anomaly detection.
 
 ---
+
+# Technical Expertise
 
 🤖 Hands-on experience with a wide range of ML technologies:
 
@@ -22,21 +24,13 @@ Data Processing: Apache Spark, Hadoop
 
 ---
 
-🚀 **PROJECTS**
-
-
-
-
-
-Financial Risk Analytics: Analyzed high-volume financial transactions to detect inconsistencies and built predictive models to identify fraudulent transactions, improving fraud detection by 25%.
+# 🚀 **PROJECTS**
 
 
 
 🌱 Continuous learner focused on expanding machine learning expertise and open-source contributions.
 
----
 
-**Some Projects I worked on:**
 
 [Image Classification using Neural Networks](https://github.com/Nikhil28058/Image-Classification-using-Neural-Networks)
 
