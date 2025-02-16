@@ -30,7 +30,7 @@ Flight Data Analysis: Evaluated flight schedules, airline punctuality, and airpo
 
 🌱 Continuous learner focused on expanding machine learning expertise and open-source contributions.
 
-[](https://github.com/Nikhil28058/Image-Classification-using-Neural-Networks)
+[Image Classification using Neural Networks](https://github.com/Nikhil28058/Image-Classification-using-Neural-Networks)
 
 [Project 2: Data Analysis Toolkit](https://github.com/yourusername/project2)
 
