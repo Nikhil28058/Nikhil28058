@@ -1,4 +1,4 @@
-# 👋 Hi there, I am Sai Nikhil Dunuka**
+# 👋 Hi there, I am Sai Nikhil Dunuka
 
 👨‍💻 Data Scientist | Machine Learning Enthusiast
 
@@ -44,7 +44,10 @@ Flight Data Analysis: Evaluated flight schedules, airline punctuality, and airpo
 
 Wine Quality Prediction: Built a parallel machine learning model using Apache Spark on AWS infrastructure, deployed with Docker and S3, achieving a high accuracy of 90%.
 
-👀 Actively seeking a full-time role as a Data Scientist or Machine Learning Engineer.
+
+Developed a recommendation system for Netflix content by leveraging BERT (Bidirectional Encoder Representations from Transformers) to analyze and understand user preferences and content features.
+
+**👀 Actively seeking a full-time role as a Data Scientist or Machine Learning Engineer.**
 <!---
 Nikhil28058/Nikhil28058 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
