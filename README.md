@@ -1,10 +1,12 @@
-👋 Hi there, I am Sai Nikhil Dunuka
+**👋 Hi there, I am Sai Nikhil Dunuka**
 
 👨‍💻 Data Scientist | Machine Learning Enthusiast
 
 💡 Passionate about turning data into actionable insights and building efficient, scalable solutions.
 
 🔍 Experienced with predictive analytics, fraud detection, financial risk modeling, and anomaly detection.
+
+---
 
 🤖 Hands-on experience with a wide range of ML technologies:
 
@@ -18,7 +20,9 @@ Data Processing: Apache Spark, Hadoop
 
 📊 Skilled in Python, SQL, Tableau, and AWS for data visualization and big data processing.
 
-🚀 PROJECTS
+---
+
+🚀 **PROJECTS**
 
 Plants Classification using Deep Neural Networks: Led the development of a deep learning model using CNN & pre-trained architectures like ResNet50 and InceptionV3 to classify 30 plant species.
 
@@ -29,6 +33,10 @@ Financial Risk Analytics: Analyzed high-volume financial transactions to detect 
 Flight Data Analysis: Evaluated flight schedules, airline punctuality, and airport efficiency using SQL, Python, and Hadoop to identify delays and causes of flight cancellations.
 
 🌱 Continuous learner focused on expanding machine learning expertise and open-source contributions.
+
+---
+
+**Some Projects I worked on:**
 
 [Image Classification using Neural Networks](https://github.com/Nikhil28058/Image-Classification-using-Neural-Networks)
 
